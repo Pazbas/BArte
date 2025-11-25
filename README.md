@@ -1,3 +1,7 @@
+Se realiza proyecto final con la propuesta de ofrecer una experiencia completa para los amantes del bordado: compra de materiales y kits listos para usar con descuentos, cursos online y conectarse con una comunidad apasionada por el arte textil.
+
+Para la confección del sitio se utilizó Vue como framework principal, para dar estilo Bootstrap y para autentificar a los usuarios FireBase.
+
 login de usuario
 user: pbascunan@prueba.cl
 password: prueba2
